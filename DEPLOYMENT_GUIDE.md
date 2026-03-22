@@ -58,7 +58,7 @@ git commit -m "Initial commit: Christine Liang portfolio website"
 將本地倉庫連接到 GitHub：
 
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/christine-portfolio.git
+git remote add origin https://github.com/https://github.com/mycity50123/christine-portfolio
 git branch -M main
 git push -u origin main
 ```
